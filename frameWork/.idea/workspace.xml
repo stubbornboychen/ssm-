@@ -7,32 +7,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb9f36c2-1e86-4fd5-9c1a-f86b84600d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/databaseConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/pages/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/hanlder/ProxyInvokeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/main/ProxyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/target/ITargetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/target/TargetInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/TestGCRoots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/loader/Analysics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/loader/Classloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/frameWork.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/dynamic/target/TargetServiceProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/hanlder/ProxyInvokeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/main/ProxyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/main/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/target/ITargetInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/target/TargetInterfaceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/TestGCRoots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interfac0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Classloader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/stubbornboy/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/databaseConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="frameWork" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -47,6 +74,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="E:\tools\apache-maven-3.6.0\localHouse" />
         <option name="mavenHome" value="E:/tools/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="E:\tools\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -76,12 +104,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\git_project\ssm-\frameWork\src\main\web\WEB-INF\pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\git_project\ssm-\frameWork\src\main\web" />
       <recent name="E:\git_project\ssm-\frameWork\src\main" />
@@ -89,15 +114,89 @@
       <recent name="E:\git_project\ssm-\frameWork\src\main\java" />
       <recent name="E:\git_project\ssm-\frameWork\web" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_project\ssm-\frameWork\src\main\web\WEB-INF\pages" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stubbornboy.proxy.dynamic.target" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Analysics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.tests.loader.Analysics" />
+      <module name="frameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stubbornboy.tests.loader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.tests.Test" />
+      <module name="frameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stubbornboy.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGCRoots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.tests.TestGCRoots" />
+      <module name="frameWork" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stubbornboy.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.proxy.jdkdynamic.main.Tests" />
+      <module name="frameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stubbornboy.proxy.jdkdynamic.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stubbornboy.proxy.jdkdynamic.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stubbornboy.proxy.jdkdynamic.main" />
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.proxy.jdkdynamic.main.Test" />
+      <option name="METHOD_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="frameWork:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/frameWork_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -164,6 +263,23 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Analysics" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.TestGCRoots" />
+      <item itemvalue="Application.Tests" />
+      <item itemvalue="JUnit.Test.Tests" />
+      <item itemvalue="Tomcat Server.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Tests" />
+        <item itemvalue="Application.TestGCRoots" />
+        <item itemvalue="Application.Analysics" />
+        <item itemvalue="JUnit.Test.Tests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -174,11 +290,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -205,7 +316,27 @@
       <workItem from="1576390969947" duration="1598000" />
       <workItem from="1577586386208" duration="527000" />
       <workItem from="1579848605697" duration="10798000" />
-      <workItem from="1579914752088" duration="7456000" />
+      <workItem from="1579914752088" duration="11624000" />
+      <workItem from="1579950765396" duration="1022000" />
+      <workItem from="1580001311664" duration="17088000" />
+      <workItem from="1580042039082" duration="730000" />
+      <workItem from="1580099493903" duration="4713000" />
+      <workItem from="1580128241725" duration="1477000" />
+      <workItem from="1580178243400" duration="9526000" />
+      <workItem from="1580262057644" duration="13294000" />
+      <workItem from="1580352379359" duration="1803000" />
+      <workItem from="1580451414517" duration="4182000" />
+      <workItem from="1580554599784" duration="1817000" />
+      <workItem from="1581157946819" duration="2451000" />
+      <workItem from="1581490513373" duration="10782000" />
+      <workItem from="1581590227431" duration="597000" />
+      <workItem from="1582334467438" duration="2014000" />
+      <workItem from="1582422894530" duration="1450000" />
+      <workItem from="1583582664533" duration="4277000" />
+      <workItem from="1583634605051" duration="3304000" />
+      <workItem from="1584238315753" duration="3640000" />
+      <workItem from="1584777249143" duration="5480000" />
+      <workItem from="1584843072686" duration="892000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1566217979893</created>
@@ -253,10 +384,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579854742093" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579943133050">
+    <state x="145" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580272284026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579943133050" />
+    <state x="145" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580272284026" />
+    <state x="373" y="89" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580272282878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="89" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1580272282878" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1580020355102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1580020355102" />
     <state x="577" y="262" width="479" height="151" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1579854814165">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -265,58 +404,62 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="523" y="254" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1280.680@0.0.1280.680" timestamp="1579854838793" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1584844332306">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584844332305" />
     <state x="459" y="79" key="FileChooserDialogImpl" timestamp="1579854837751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="459" y="79" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579854837751" />
-    <state width="845" height="151" key="GridCell.Tab.0.bottom" timestamp="1579943805394">
+    <state width="1237" height="136" key="GridCell.Tab.0.bottom" timestamp="1583667507882">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.0.center" timestamp="1579943805394">
+    <state width="1237" height="136" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
+    <state width="1237" height="136" key="GridCell.Tab.0.center" timestamp="1583667507882">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.0.left" timestamp="1579943805394">
+    <state width="1237" height="136" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
+    <state width="1237" height="136" key="GridCell.Tab.0.left" timestamp="1583667507882">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.0.right" timestamp="1579943805394">
+    <state width="1237" height="136" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
+    <state width="1237" height="136" key="GridCell.Tab.0.right" timestamp="1583667507882">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.1.bottom" timestamp="1579943805394">
+    <state width="1237" height="136" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom" timestamp="1580132013669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.1.center" timestamp="1579943805394">
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580132013669" />
+    <state width="1237" height="2" key="GridCell.Tab.1.center" timestamp="1580132013669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.1.left" timestamp="1579943805394">
+    <state width="1237" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580132013669" />
+    <state width="1237" height="2" key="GridCell.Tab.1.left" timestamp="1580132013669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.1.right" timestamp="1579943805394">
+    <state width="1237" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580132013669" />
+    <state width="1237" height="2" key="GridCell.Tab.1.right" timestamp="1580132013669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.2.bottom" timestamp="1579943805394">
+    <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580132013669" />
+    <state width="845" height="151" key="GridCell.Tab.2.bottom" timestamp="1579950757724">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.2.center" timestamp="1579943805394">
+    <state width="845" height="151" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579950757724" />
+    <state width="845" height="151" key="GridCell.Tab.2.center" timestamp="1579950757723">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.2.left" timestamp="1579943805394">
+    <state width="845" height="151" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1579950757723" />
+    <state width="845" height="151" key="GridCell.Tab.2.left" timestamp="1579950757723">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
-    <state width="845" height="151" key="GridCell.Tab.2.right" timestamp="1579943805394">
+    <state width="845" height="151" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1579950757723" />
+    <state width="845" height="151" key="GridCell.Tab.2.right" timestamp="1579950757724">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="151" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1579943805394" />
+    <state width="845" height="151" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1579950757724" />
     <state width="845" height="151" key="GridCell.Tab.3.bottom" timestamp="1579943490132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -333,13 +476,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="845" height="151" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1579943490132" />
-    <state x="95" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1579918557050">
+    <state x="95" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1580041957719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579918557050" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579917353802">
+    <state x="95" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580041957719" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583645336689">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579917353802" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583645336689" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/frameWork$Test.ic" NAME="Test Coverage Results" MODIFIED="1580021054825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stubbornboy.proxy.dynamic.main.*</FILTER>
+    </SUITE>
   </component>
 </project>
