@@ -7,38 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb9f36c2-1e86-4fd5-9c1a-f86b84600d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/pages/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/hanlder/ProxyInvokeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/main/ProxyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/main/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/target/ITargetInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/proxy/jdkdynamic/target/TargetInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/TestGCRoots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/loader/Analysics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/loader/Classloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/frameWork.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/dynamic/target/TargetServiceProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/hanlder/ProxyInvokeHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/main/ProxyUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/main/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/target/ITargetInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/proxy/jdkdynamic/target/TargetInterfaceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/TestGCRoots.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interfac0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interface1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Interface2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Parent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics$Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Analysics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/loader/Classloader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/frameWork_war_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stubbornboy/tests/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stubbornboy/tests/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +79,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stubbornboy.spring.service.impl" />
+      <recent name="com.stubbornboy.proxy.dynamic.target" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_project\ssm-\frameWork\src\main\web\WEB-INF\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\git_project\ssm-\frameWork\src\main\web" />
       <recent name="E:\git_project\ssm-\frameWork\src\main" />
@@ -114,14 +93,8 @@
       <recent name="E:\git_project\ssm-\frameWork\src\main\java" />
       <recent name="E:\git_project\ssm-\frameWork\web" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\git_project\ssm-\frameWork\src\main\web\WEB-INF\pages" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.stubbornboy.proxy.dynamic.target" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="JUnit.RedisConnectionTest.Test">
     <configuration name="Analysics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stubbornboy.tests.loader.Analysics" />
       <module name="frameWork" />
@@ -175,17 +148,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RedisConnectionTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="frameWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stubbornboy.proxy.jdkdynamic.main.*" />
+          <option name="PATTERN" value="com.stubbornboy.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stubbornboy.proxy.jdkdynamic.main" />
-      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.proxy.jdkdynamic.main.Test" />
-      <option name="METHOD_NAME" value="Tests" />
+      <option name="PACKAGE_NAME" value="com.stubbornboy.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.stubbornboy.redis.RedisConnectionTest" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,16 +241,16 @@
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.TestGCRoots" />
       <item itemvalue="Application.Tests" />
-      <item itemvalue="JUnit.Test.Tests" />
+      <item itemvalue="JUnit.RedisConnectionTest.Test" />
       <item itemvalue="Tomcat Server.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RedisConnectionTest.Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Tests" />
         <item itemvalue="Application.TestGCRoots" />
         <item itemvalue="Application.Analysics" />
-        <item itemvalue="JUnit.Test.Tests" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +309,9 @@
       <workItem from="1583634605051" duration="3304000" />
       <workItem from="1584238315753" duration="3640000" />
       <workItem from="1584777249143" duration="5480000" />
-      <workItem from="1584843072686" duration="892000" />
+      <workItem from="1584843072686" duration="5183000" />
+      <workItem from="1584849779750" duration="12737000" />
+      <workItem from="1585454015924" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1566217979893</created>
@@ -359,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566218450129</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1584844334183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584844334183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,10 +374,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="373" y="89" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1580272282878" />
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1580020355102">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1584866133090">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1580020355102" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584866133090" />
     <state x="577" y="262" width="479" height="151" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1579854814165">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -404,30 +386,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="523" y="254" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1280.680@0.0.1280.680" timestamp="1579854838793" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1584844332306">
+    <state x="346" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584866676249">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584844332305" />
+    <state x="346" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1584866676249" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1585466136790">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585466136790" />
     <state x="459" y="79" key="FileChooserDialogImpl" timestamp="1579854837751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="459" y="79" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579854837751" />
-    <state width="1237" height="136" key="GridCell.Tab.0.bottom" timestamp="1583667507882">
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom" timestamp="1584878379504">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
-    <state width="1237" height="136" key="GridCell.Tab.0.center" timestamp="1583667507882">
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584878379504" />
+    <state width="1237" height="119" key="GridCell.Tab.0.center" timestamp="1584878379503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
-    <state width="1237" height="136" key="GridCell.Tab.0.left" timestamp="1583667507882">
+    <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584878379503" />
+    <state width="1237" height="119" key="GridCell.Tab.0.left" timestamp="1584878379502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
-    <state width="1237" height="136" key="GridCell.Tab.0.right" timestamp="1583667507882">
+    <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584878379502" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right" timestamp="1584878379503">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583667507882" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584878379503" />
     <state width="1237" height="2" key="GridCell.Tab.1.bottom" timestamp="1580132013669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -476,14 +462,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="845" height="151" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1579943490132" />
-    <state x="95" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1580041957719">
+    <state x="95" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1584866705404">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580041957719" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583645336689">
+    <state x="95" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584866705404" />
+    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1584867269480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583645336689" />
+    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1584867269480" />
+    <state x="56" y="0" key="new project wizard" timestamp="1584876598995">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584876598995" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584876710215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584876710215" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/frameWork$Test.ic" NAME="Test Coverage Results" MODIFIED="1580021054825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
